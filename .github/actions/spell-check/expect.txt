@@ -64,6 +64,7 @@ appium
 Applets
 Applicationcan
 applicationconfiguration
+applicationconfiguration
 applicationframehost
 Applist
 applog
@@ -89,9 +90,11 @@ ARRAYSIZE
 arsinh
 artanh
 Artsakh
+asd
 asdf
 AShortcut
 ASingle
+Asn
 ASSOCCHANGED
 ASYNCWINDOWPLACEMENT
 ASYNCWINDOWPOS
@@ -160,6 +163,7 @@ bpmf
 bpp
 bricelam
 BRIGHTGREEN
+Brotli
 Browsable
 bsd
 bstr
@@ -202,6 +206,7 @@ Choibalsan
 chrdavis
 Chrzan
 cht
+cht
 Chukotka
 Chuuk
 CIELAB
@@ -220,6 +225,10 @@ CLIPCHILDREN
 Clipperton
 CLIPSIBLINGS
 clrcall
+clrcompression
+clretwrc
+clrgc
+clrjit
 Cls
 CLSCTX
 clsid
@@ -234,6 +243,7 @@ CMock
 CMONITORS
 cmpgt
 cmyk
+Cng
 cnt
 Cocklebiddy
 coclass
@@ -279,6 +289,7 @@ CONTROLL
 CONTROLPARENT
 Controlz
 copiedcolorrepresentation
+coreclr
 corewebview
 cortana
 cotaskmem
@@ -343,6 +354,7 @@ davidegiacometti
 Dayof
 Dbg
 Dbghelp
+dbgshim
 DBLCLKS
 DBLEPSILON
 DCapture
@@ -351,6 +363,7 @@ DCOM
 dcommon
 dcomp
 dcompi
+DCompiler
 DComposition
 DCR
 DDevice
@@ -387,6 +400,7 @@ DESKTOPABSOLUTEEDITING
 DESKTOPABSOLUTEPARSING
 desktopshorcutinstalled
 desktopwindowxamlsource
+deu
 deu
 devblogs
 devdocs
@@ -475,6 +489,7 @@ endpointvolume
 endregion
 ENTERSIZEMOVE
 enu
+enu
 enumerationoptions
 EOAC
 epicgames
@@ -487,6 +502,7 @@ ERRORLEVEL
 ERRORTITLE
 ESettings
 esize
+esn
 esn
 esrp
 Eswatini
@@ -676,6 +692,8 @@ HOMEPATH
 homljgmgpmcbpjbnjpfijnhipfkiclkd
 HOOKPROC
 Hostbackdropbrush
+hostfxr
+hostpolicy
 hotkeycontrol
 hotkeys
 hotlight
@@ -747,6 +765,7 @@ IMAGERESIZEREXT
 imageresizerinput
 imageresizersettings
 imagingdevices
+Imc
 ime
 imeutil
 inetcpl
@@ -783,12 +802,14 @@ Intelli
 interactable
 Interlop
 INTRESOURCE
+Intrinsics
 INVALIDARG
 invalidoperatioexception
 ipc
 ipcmanager
 IPlugin
 IPower
+IPREVIEW
 IPREVIEW
 ipreviewhandler
 ipreviewhandlervisualssetfont
@@ -818,6 +839,7 @@ jgeosdfsdsgmkedfgdfgdfgbkmhcgcflmi
 jjw
 jobject
 jpe
+jpn
 jpn
 jpnime
 Jsons
@@ -898,6 +920,7 @@ LMEM
 LMENU
 lnk
 LOADFROMFILE
+LOADFROMFILE
 LOADLIBRARYASDATAFILE
 LOBYTE
 LOCALAPPDATA
@@ -909,6 +932,7 @@ LOCATIONCHANGE
 logconsole
 logfile
 LOGFONT
+LOGFONTW
 LOGFONTW
 LOGMSG
 logon
@@ -977,6 +1001,8 @@ MAPTOSAMESHORTCUT
 MAPVK
 Markdig
 markdownpreviewhandler
+markdownpreviewhandler
+MARKDOWNPREVIEWHANDLERCPP
 MARKDOWNPREVIEWHANDLERCPP
 Markovic
 Marquesas
@@ -1010,6 +1036,7 @@ Metadatas
 metafile
 mfapi
 mfc
+mfcm
 mfcm
 mfidl
 mfobjects
@@ -1070,7 +1097,10 @@ mru
 msbuild
 msc
 msclr
+mscordaccore
+mscordbi
 mscorlib
+mscorrc
 msdata
 msedge
 MSGFLT
@@ -1083,6 +1113,7 @@ MSIXCA
 MSLLHOOKSTRUCT
 Mso
 msp
+msquic
 msrc
 msstore
 mst
@@ -1132,6 +1163,7 @@ netcpl
 netframework
 netsetup
 netsh
+netstandard
 Neue
 newcolor
 newdev
@@ -1308,6 +1340,7 @@ pinvoke
 pipename
 Pitcairn
 PKBDLLHOOKSTRUCT
+Pkcs
 PKEY
 plib
 PLK
@@ -1409,6 +1442,7 @@ QUERYENDSESSION
 queryfocus
 QUERYOPEN
 QUEUESYNC
+Quic
 Quickime
 QUNS
 qwertyuiopasdfghjklzxcvbnm
@@ -1526,6 +1560,7 @@ runtimeconfig
 runtimeobject
 runtimepack
 runtimes
+rus
 rus
 Rutkas
 RValue
@@ -1678,6 +1713,8 @@ srw
 srwlock
 sse
 ssf
+Ssl
+sss
 STACKFRAME
 stackoverflow
 stackpanel
@@ -1796,6 +1833,7 @@ THICKFRAME
 THISCOMPONENT
 THotkey
 thumbcache
+thumbcache
 TILEDWINDOW
 timedate
 timediff
@@ -1870,6 +1908,7 @@ uniquifier
 Uniquifies
 unitconverter
 unittests
+Unk
 Unk
 unknwn
 UNLEN
@@ -2067,6 +2106,7 @@ workspaces
 wox
 wparam
 wpf
+wpfgfx
 wpftmp
 wpr
 wprp
