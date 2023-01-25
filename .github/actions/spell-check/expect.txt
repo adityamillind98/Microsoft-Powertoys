@@ -40,7 +40,6 @@ ALPHATYPE
 Altdown
 alwaysontop
 amd
-AMF
 AModifier
 AMPROPERTY
 AMPROPSETID
@@ -52,6 +51,7 @@ ansicolor
 ANull
 AOC
 aocfnapldcnfbofgmbbllojgocaelgdd
+AOT
 APARTMENTTHREADED
 APeriod
 APIENTRY
@@ -66,7 +66,6 @@ Applicationcan
 applicationconfiguration
 applicationconfiguration
 applicationframehost
-Applist
 applog
 appmanifest
 appref
@@ -90,11 +89,9 @@ ARRAYSIZE
 arsinh
 artanh
 Artsakh
-asd
 asdf
 AShortcut
 ASingle
-Asn
 ASSOCCHANGED
 ASYNCWINDOWPLACEMENT
 ASYNCWINDOWPOS
@@ -163,7 +160,6 @@ bpmf
 bpp
 bricelam
 BRIGHTGREEN
-Brotli
 Browsable
 bsd
 bstr
@@ -205,8 +201,7 @@ CHILDWINDOW
 Choibalsan
 chrdavis
 Chrzan
-cht
-cht
+CHT
 Chukotka
 Chuuk
 CIELAB
@@ -225,10 +220,6 @@ CLIPCHILDREN
 Clipperton
 CLIPSIBLINGS
 clrcall
-clrcompression
-clretwrc
-clrgc
-clrjit
 Cls
 CLSCTX
 clsid
@@ -243,7 +234,6 @@ CMock
 CMONITORS
 cmpgt
 cmyk
-Cng
 cnt
 Cocklebiddy
 coclass
@@ -289,7 +279,6 @@ CONTROLL
 CONTROLPARENT
 Controlz
 copiedcolorrepresentation
-coreclr
 corewebview
 cortana
 cotaskmem
@@ -301,6 +290,7 @@ cppruntime
 cppstd
 cppwinrt
 CProj
+createdump
 CREATESCHEDULEDTASK
 CREATESTRUCT
 CREATEWINDOWFAILED
@@ -315,7 +305,6 @@ CSRW
 CStyle
 CSY
 CTest
-Ctl
 CTRLALTDEL
 Ctrls
 Ctx
@@ -354,7 +343,6 @@ davidegiacometti
 Dayof
 Dbg
 Dbghelp
-dbgshim
 DBLCLKS
 DBLEPSILON
 DCapture
@@ -363,7 +351,6 @@ DCOM
 dcommon
 dcomp
 dcompi
-DCompiler
 DComposition
 DCR
 DDevice
@@ -400,8 +387,7 @@ DESKTOPABSOLUTEEDITING
 DESKTOPABSOLUTEPARSING
 desktopshorcutinstalled
 desktopwindowxamlsource
-deu
-deu
+DEU
 devblogs
 devdocs
 devenum
@@ -488,8 +474,7 @@ ENABLEDPOPUP
 endpointvolume
 endregion
 ENTERSIZEMOVE
-enu
-enu
+ENU
 enumerationoptions
 EOAC
 epicgames
@@ -502,8 +487,6 @@ ERRORLEVEL
 ERRORTITLE
 ESettings
 esize
-esn
-esn
 esrp
 Eswatini
 etl
@@ -612,7 +595,6 @@ GETTEXT
 GETTEXTLENGTH
 GHND
 globalassemblycache
-Globbing
 GMEM
 GNumber
 google
@@ -692,8 +674,6 @@ HOMEPATH
 homljgmgpmcbpjbnjpfijnhipfkiclkd
 HOOKPROC
 Hostbackdropbrush
-hostfxr
-hostpolicy
 hotkeycontrol
 hotkeys
 hotlight
@@ -765,7 +745,6 @@ IMAGERESIZEREXT
 imageresizerinput
 imageresizersettings
 imagingdevices
-Imc
 ime
 imeutil
 inetcpl
@@ -802,7 +781,6 @@ Intelli
 interactable
 Interlop
 INTRESOURCE
-Intrinsics
 INVALIDARG
 invalidoperatioexception
 ipc
@@ -839,8 +817,7 @@ jgeosdfsdsgmkedfgdfgdfgbkmhcgcflmi
 jjw
 jobject
 jpe
-jpn
-jpn
+JPN
 jpnime
 Jsons
 jsonval
@@ -864,6 +841,7 @@ keynum
 keyremaps
 Keytool
 keyup
+Kfiles
 Khakassia
 Khanty
 Khovd
@@ -880,6 +858,7 @@ Kyzylorda
 LAlt
 Lambson
 langword
+lastcodeanalysissucceeded
 Lastdevice
 Laute
 laviusmotileng
@@ -940,6 +919,7 @@ LOGPIXELSX
 LOn
 longdate
 LONGLONG
+louncher
 lowlevel
 LOWORD
 lparam
@@ -1036,8 +1016,6 @@ Metadatas
 metafile
 mfapi
 mfc
-mfcm
-mfcm
 mfidl
 mfobjects
 mfplat
@@ -1097,10 +1075,7 @@ mru
 msbuild
 msc
 msclr
-mscordaccore
-mscordbi
 mscorlib
-mscorrc
 msdata
 msedge
 MSGFLT
@@ -1113,7 +1088,6 @@ MSIXCA
 MSLLHOOKSTRUCT
 Mso
 msp
-msquic
 msrc
 msstore
 mst
@@ -1163,7 +1137,6 @@ netcpl
 netframework
 netsetup
 netsh
-netstandard
 Neue
 newcolor
 newdev
@@ -1340,7 +1313,6 @@ pinvoke
 pipename
 Pitcairn
 PKBDLLHOOKSTRUCT
-Pkcs
 PKEY
 plib
 PLK
@@ -1442,7 +1414,6 @@ QUERYENDSESSION
 queryfocus
 QUERYOPEN
 QUEUESYNC
-Quic
 Quickime
 QUNS
 qwertyuiopasdfghjklzxcvbnm
@@ -1469,7 +1440,6 @@ RECTDESTINATION
 RECTL
 rectp
 rects
-recyclebin
 redirectedfrom
 Redist
 redistributable
@@ -1556,12 +1526,10 @@ rungameid
 RUNLEVEL
 runsettings
 runtimeclass
-runtimeconfig
 runtimeobject
 runtimepack
 runtimes
-rus
-rus
+RUS
 Rutkas
 RValue
 rvm
@@ -1631,7 +1599,6 @@ SHGFI
 Shl
 shldisp
 shlobj
-Shlw
 shlwapi
 shmem
 shobjidl
@@ -1713,8 +1680,6 @@ srw
 srwlock
 sse
 ssf
-Ssl
-sss
 STACKFRAME
 stackoverflow
 stackpanel
@@ -2106,7 +2071,6 @@ workspaces
 wox
 wparam
 wpf
-wpfgfx
 wpftmp
 wpr
 wprp
